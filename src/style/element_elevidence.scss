@@ -1,0 +1,5 @@
+/* 重写element组件样式文件 */
+@import './constant.scss';
+.el-scrollbar__wrap{
+  overflow: auto;
+}
